@@ -1,0 +1,2 @@
+# Optional: precomputed embeddings can be stored here (binary pickle)
+# Keep as placeholder. Generate embeddings using a script and save as needed.
